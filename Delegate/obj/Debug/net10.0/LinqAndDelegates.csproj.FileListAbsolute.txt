@@ -1,0 +1,14 @@
+D:\Semester 5\PRN212\Excercire\Delegate\bin\Debug\net10.0\LinqAndDelegates.exe
+D:\Semester 5\PRN212\Excercire\Delegate\bin\Debug\net10.0\LinqAndDelegates.deps.json
+D:\Semester 5\PRN212\Excercire\Delegate\bin\Debug\net10.0\LinqAndDelegates.runtimeconfig.json
+D:\Semester 5\PRN212\Excercire\Delegate\bin\Debug\net10.0\LinqAndDelegates.dll
+D:\Semester 5\PRN212\Excercire\Delegate\bin\Debug\net10.0\LinqAndDelegates.pdb
+D:\Semester 5\PRN212\Excercire\Delegate\obj\Debug\net10.0\LinqAndDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 5\PRN212\Excercire\Delegate\obj\Debug\net10.0\LinqAndDelegates.AssemblyInfoInputs.cache
+D:\Semester 5\PRN212\Excercire\Delegate\obj\Debug\net10.0\LinqAndDelegates.AssemblyInfo.cs
+D:\Semester 5\PRN212\Excercire\Delegate\obj\Debug\net10.0\LinqAndDelegates.csproj.CoreCompileInputs.cache
+D:\Semester 5\PRN212\Excercire\Delegate\obj\Debug\net10.0\LinqAndDelegates.dll
+D:\Semester 5\PRN212\Excercire\Delegate\obj\Debug\net10.0\refint\LinqAndDelegates.dll
+D:\Semester 5\PRN212\Excercire\Delegate\obj\Debug\net10.0\LinqAndDelegates.pdb
+D:\Semester 5\PRN212\Excercire\Delegate\obj\Debug\net10.0\LinqAndDelegates.genruntimeconfig.cache
+D:\Semester 5\PRN212\Excercire\Delegate\obj\Debug\net10.0\ref\LinqAndDelegates.dll
