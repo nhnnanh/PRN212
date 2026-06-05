@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ManageCategoriesApp/ManageCategoriesApp.csproj" />
+  <Project Path="Repository/Repository.csproj" />
+</Solution>
