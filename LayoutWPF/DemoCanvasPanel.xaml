@@ -1,0 +1,21 @@
+<Window x:Class="LayoutWPF.DemoCanvasPanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Demo Canvas Panel" Height="400" Width="300"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize">
+    <Canvas Background="LightBlue">
+        <Label Content="Enter Car Information" Canvas.Top="14" Canvas.Left="17" FontSize="16" FontWeight="Bold" Foreground="#2C3E50"/>
+        
+        <Label Content="Car Name:" Canvas.Left="17" Canvas.Top="70" FontSize="12" Foreground="#2C3E50"/>
+        <TextBox x:Name="txtCarName" Canvas.Left="100" Canvas.Top="70" Width="160" Height="26" VerticalContentAlignment="Center" Padding="4,0,0,0"/>
+        
+        <Label Content="Color:" Canvas.Left="17" Canvas.Top="120" FontSize="12" Foreground="#2C3E50"/>
+        <TextBox x:Name="txtColor" Canvas.Left="100" Canvas.Top="120" Width="160" Height="26" VerticalContentAlignment="Center" Padding="4,0,0,0"/>
+        
+        <Label Content="Brand:" Canvas.Left="17" Canvas.Top="170" FontSize="12" Foreground="#2C3E50"/>
+        <TextBox x:Name="txtBrand" Canvas.Left="100" Canvas.Top="170" Width="160" Height="26" VerticalContentAlignment="Center" Padding="4,0,0,0"/>
+        
+        <Button x:Name="btnDisplay" Content="Display" Canvas.Left="100" Canvas.Top="230" Width="100" Height="35" Click="btnDisplay_Click" Background="#2980B9" Foreground="White" FontWeight="Bold" BorderThickness="0"/>
+    </Canvas>
+</Window>
