@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semester 5\\PRN212\\Excercire\\ManageCategoriesApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F56BC6-CAA4-4D3B-BBC8-F46500D06357}|ManageCategoriesApp2\\ManageCategoriesApp2.csproj|d:\\semester 5\\prn212\\excercire\\managecategoriesapp2\\managecategoriesapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3F56BC6-CAA4-4D3B-BBC8-F46500D06357}|ManageCategoriesApp2\\ManageCategoriesApp2.csproj|solutionrelative:managecategoriesapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F56BC6-CAA4-4D3B-BBC8-F46500D06357}|ManageCategoriesApp2\\ManageCategoriesApp2.csproj|d:\\semester 5\\prn212\\excercire\\managecategoriesapp2\\managecategoriesapp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F56BC6-CAA4-4D3B-BBC8-F46500D06357}|ManageCategoriesApp2\\ManageCategoriesApp2.csproj|solutionrelative:managecategoriesapp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Semester 5\\PRN212\\Excercire\\ManageCategoriesApp2\\ManageCategoriesApp2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ManageCategoriesApp2\\MainWindow.xaml",
+              "ToolTip": "D:\\Semester 5\\PRN212\\Excercire\\ManageCategoriesApp2\\ManageCategoriesApp2\\MainWindow.xaml",
+              "RelativeToolTip": "ManageCategoriesApp2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-12T07:25:18.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Semester 5\\PRN212\\Excercire\\ManageCategoriesApp2\\ManageCategoriesApp2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ManageCategoriesApp2\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Semester 5\\PRN212\\Excercire\\ManageCategoriesApp2\\ManageCategoriesApp2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ManageCategoriesApp2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T07:25:18.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
