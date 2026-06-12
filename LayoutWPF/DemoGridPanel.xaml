@@ -1,0 +1,31 @@
+<Window x:Class="LayoutWPF.DemoGridPanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Demo Grid Panel" Height="350" Width="420"
+        WindowStartupLocation="CenterScreen">
+    <Grid Background="LightBlue" Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="28"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="300"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Column 0: Labels -->
+        <Label Content="Name:" Grid.Row="0" Grid.Column="0" Margin="5" VerticalAlignment="Center" FontSize="12" Foreground="#2C3E50" FontWeight="SemiBold"/>
+        <Label Content="E-Mail:" Grid.Row="1" Grid.Column="0" Margin="5" VerticalAlignment="Center" FontSize="12" Foreground="#2C3E50" FontWeight="SemiBold"/>
+        <Label Content="Comment:" Grid.Row="2" Grid.Column="0" Margin="5" VerticalAlignment="Top" FontSize="12" Foreground="#2C3E50" FontWeight="SemiBold"/>
+
+        <!-- Column 1: TextBoxes -->
+        <TextBox x:Name="txtName" Grid.Row="0" Grid.Column="1" Margin="5" Height="26" VerticalContentAlignment="Center" Padding="4,0,0,0"/>
+        <TextBox x:Name="txtEmail" Grid.Row="1" Grid.Column="1" Margin="5" Height="26" VerticalContentAlignment="Center" Padding="4,0,0,0"/>
+        <TextBox x:Name="txtComment" Grid.Row="2" Grid.Column="1" Margin="5" AcceptsReturn="True" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" Padding="4"/>
+
+        <!-- Row 3, Column 1: Button Send Centered -->
+        <Button x:Name="btnSend" Content="Send" Grid.Row="3" Grid.Column="1" Width="100" HorizontalAlignment="Center" Click="btnSend_Click" Background="#2980B9" Foreground="White" FontWeight="Bold" BorderThickness="0"/>
+    </Grid>
+</Window>
