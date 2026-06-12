@@ -1,0 +1,12 @@
+D:\Semester 5\PRN212\Excercire\ManageCategoriesApp\Repository\bin\Debug\net8.0\Repository.deps.json
+D:\Semester 5\PRN212\Excercire\ManageCategoriesApp\Repository\bin\Debug\net8.0\Repository.dll
+D:\Semester 5\PRN212\Excercire\ManageCategoriesApp\Repository\bin\Debug\net8.0\Repository.pdb
+D:\Semester 5\PRN212\Excercire\ManageCategoriesApp\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 5\PRN212\Excercire\ManageCategoriesApp\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+D:\Semester 5\PRN212\Excercire\ManageCategoriesApp\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+D:\Semester 5\PRN212\Excercire\ManageCategoriesApp\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+D:\Semester 5\PRN212\Excercire\ManageCategoriesApp\Repository\obj\Debug\net8.0\Repository.dll
+D:\Semester 5\PRN212\Excercire\ManageCategoriesApp\Repository\obj\Debug\net8.0\refint\Repository.dll
+D:\Semester 5\PRN212\Excercire\ManageCategoriesApp\Repository\obj\Debug\net8.0\Repository.pdb
+D:\Semester 5\PRN212\Excercire\ManageCategoriesApp\Repository\obj\Debug\net8.0\ref\Repository.dll
+D:\Semester 5\PRN212\Excercire\ManageCategoriesApp\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
