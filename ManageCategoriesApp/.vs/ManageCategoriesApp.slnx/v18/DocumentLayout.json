@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semester 5\\PRN212\\Excercire\\ManageCategoriesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE13E715-6011-485F-8636-A740A520F214}|ManageCategoriesApp\\ManageCategoriesApp.csproj|d:\\semester 5\\prn212\\excercire\\managecategoriesapp\\managecategoriesapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE13E715-6011-485F-8636-A740A520F214}|ManageCategoriesApp\\ManageCategoriesApp.csproj|solutionrelative:managecategoriesapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE13E715-6011-485F-8636-A740A520F214}|ManageCategoriesApp\\ManageCategoriesApp.csproj|d:\\semester 5\\prn212\\excercire\\managecategoriesapp\\managecategoriesapp\\managecategoriesapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE13E715-6011-485F-8636-A740A520F214}|ManageCategoriesApp\\ManageCategoriesApp.csproj|solutionrelative:managecategoriesapp\\managecategoriesapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE13E715-6011-485F-8636-A740A520F214}|ManageCategoriesApp\\ManageCategoriesApp.csproj|d:\\semester 5\\prn212\\excercire\\managecategoriesapp\\managecategoriesapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BE13E715-6011-485F-8636-A740A520F214}|ManageCategoriesApp\\ManageCategoriesApp.csproj|solutionrelative:managecategoriesapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE13E715-6011-485F-8636-A740A520F214}|ManageCategoriesApp\\ManageCategoriesApp.csproj|d:\\semester 5\\prn212\\excercire\\managecategoriesapp\\managecategoriesapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE13E715-6011-485F-8636-A740A520F214}|ManageCategoriesApp\\ManageCategoriesApp.csproj|solutionrelative:managecategoriesapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Semester 5\\PRN212\\Excercire\\ManageCategoriesApp\\ManageCategoriesApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ManageCategoriesApp\\appsettings.json",
+              "ToolTip": "D:\\Semester 5\\PRN212\\Excercire\\ManageCategoriesApp\\ManageCategoriesApp\\appsettings.json",
+              "RelativeToolTip": "ManageCategoriesApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-12T07:05:29.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManageCategoriesApp",
+              "DocumentMoniker": "D:\\Semester 5\\PRN212\\Excercire\\ManageCategoriesApp\\ManageCategoriesApp\\ManageCategoriesApp.csproj",
+              "RelativeDocumentMoniker": "ManageCategoriesApp\\ManageCategoriesApp.csproj",
+              "ToolTip": "D:\\Semester 5\\PRN212\\Excercire\\ManageCategoriesApp\\ManageCategoriesApp\\ManageCategoriesApp.csproj",
+              "RelativeToolTip": "ManageCategoriesApp\\ManageCategoriesApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-12T07:04:58.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Semester 5\\PRN212\\Excercire\\ManageCategoriesApp\\ManageCategoriesApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ManageCategoriesApp\\MainWindow.xaml",
+              "ToolTip": "D:\\Semester 5\\PRN212\\Excercire\\ManageCategoriesApp\\ManageCategoriesApp\\MainWindow.xaml",
+              "RelativeToolTip": "ManageCategoriesApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-12T07:03:13.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Semester 5\\PRN212\\Excercire\\ManageCategoriesApp\\ManageCategoriesApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ManageCategoriesApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Semester 5\\PRN212\\Excercire\\ManageCategoriesApp\\ManageCategoriesApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ManageCategoriesApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T07:03:12.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
