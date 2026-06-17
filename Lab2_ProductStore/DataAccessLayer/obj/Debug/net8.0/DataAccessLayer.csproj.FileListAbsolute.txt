@@ -1,0 +1,15 @@
+D:\Semester 5\PRN212\Submit\Lab2_ProductStore\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\Semester 5\PRN212\Submit\Lab2_ProductStore\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Semester 5\PRN212\Submit\Lab2_ProductStore\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Semester 5\PRN212\Submit\Lab2_ProductStore\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.dll
+D:\Semester 5\PRN212\Submit\Lab2_ProductStore\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.pdb
+D:\Semester 5\PRN212\Submit\Lab2_ProductStore\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Semester 5\PRN212\Submit\Lab2_ProductStore\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 5\PRN212\Submit\Lab2_ProductStore\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Semester 5\PRN212\Submit\Lab2_ProductStore\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\Semester 5\PRN212\Submit\Lab2_ProductStore\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Semester 5\PRN212\Submit\Lab2_ProductStore\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\Semester 5\PRN212\Submit\Lab2_ProductStore\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\Semester 5\PRN212\Submit\Lab2_ProductStore\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\Semester 5\PRN212\Submit\Lab2_ProductStore\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\Semester 5\PRN212\Submit\Lab2_ProductStore\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

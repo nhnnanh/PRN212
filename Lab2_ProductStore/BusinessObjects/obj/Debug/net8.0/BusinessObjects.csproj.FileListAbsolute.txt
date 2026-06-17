@@ -1,0 +1,11 @@
+D:\Semester 5\PRN212\Submit\Lab2_ProductStore\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+D:\Semester 5\PRN212\Submit\Lab2_ProductStore\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\Semester 5\PRN212\Submit\Lab2_ProductStore\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\Semester 5\PRN212\Submit\Lab2_ProductStore\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 5\PRN212\Submit\Lab2_ProductStore\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\Semester 5\PRN212\Submit\Lab2_ProductStore\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+D:\Semester 5\PRN212\Submit\Lab2_ProductStore\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\Semester 5\PRN212\Submit\Lab2_ProductStore\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+D:\Semester 5\PRN212\Submit\Lab2_ProductStore\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+D:\Semester 5\PRN212\Submit\Lab2_ProductStore\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+D:\Semester 5\PRN212\Submit\Lab2_ProductStore\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
