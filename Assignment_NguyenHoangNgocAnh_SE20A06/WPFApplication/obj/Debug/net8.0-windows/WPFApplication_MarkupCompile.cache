@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\Semester 5\PRN212\Submit\Assignment_NguyenHoangNgocAnh_SE20A06\WPFApplication\obj\Debug\net8.0-windows\
+D:\Semester 5\PRN212\PRN212\Assignment_NguyenHoangNgocAnh_SE20A06\WPFApplication\obj\Debug\net8.0-windows\
 WPFApplication
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-D:\Semester 5\PRN212\Submit\Assignment_NguyenHoangNgocAnh_SE20A06\WPFApplication\App.xaml
+D:\Semester 5\PRN212\PRN212\Assignment_NguyenHoangNgocAnh_SE20A06\WPFApplication\App.xaml
 7-1292939726
 
 19616261717
-2471464263069
+2471838466057
 AdminWindow.xaml;BookingDialog.xaml;CustomerDialog.xaml;CustomerWindow.xaml;LoginWindow.xaml;ReportWindow.xaml;RoomDialog.xaml;
 
 False

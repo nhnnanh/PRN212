@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\DataAccessLayer\\DataAccessLayer.csproj": {}
+    "D:\\Semester 5\\PRN212\\PRN212\\Assignment_NguyenHoangNgocAnh_SE20A06\\DataAccessLayer\\DataAccessLayer.csproj": {}
   },
   "projects": {
-    "D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\BusinessObjects\\BusinessObjects.csproj": {
+    "D:\\Semester 5\\PRN212\\PRN212\\Assignment_NguyenHoangNgocAnh_SE20A06\\BusinessObjects\\BusinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\BusinessObjects\\BusinessObjects.csproj",
+        "projectUniqueName": "D:\\Semester 5\\PRN212\\PRN212\\Assignment_NguyenHoangNgocAnh_SE20A06\\BusinessObjects\\BusinessObjects.csproj",
         "projectName": "BusinessObjects",
-        "projectPath": "D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\BusinessObjects\\BusinessObjects.csproj",
+        "projectPath": "D:\\Semester 5\\PRN212\\PRN212\\Assignment_NguyenHoangNgocAnh_SE20A06\\BusinessObjects\\BusinessObjects.csproj",
         "packagesPath": "C:\\Users\\ngoca\\.nuget\\packages\\",
-        "outputPath": "D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\BusinessObjects\\obj\\",
+        "outputPath": "D:\\Semester 5\\PRN212\\PRN212\\Assignment_NguyenHoangNgocAnh_SE20A06\\BusinessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -31,6 +31,7 @@
         },
         "frameworks": {
           "net8.0": {
+            "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {}
           }
@@ -49,6 +50,7 @@
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Design": {
@@ -102,14 +104,14 @@
         }
       }
     },
-    "D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "D:\\Semester 5\\PRN212\\PRN212\\Assignment_NguyenHoangNgocAnh_SE20A06\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "D:\\Semester 5\\PRN212\\PRN212\\Assignment_NguyenHoangNgocAnh_SE20A06\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "D:\\Semester 5\\PRN212\\PRN212\\Assignment_NguyenHoangNgocAnh_SE20A06\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\ngoca\\.nuget\\packages\\",
-        "outputPath": "D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\DataAccessLayer\\obj\\",
+        "outputPath": "D:\\Semester 5\\PRN212\\PRN212\\Assignment_NguyenHoangNgocAnh_SE20A06\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -129,10 +131,11 @@
         },
         "frameworks": {
           "net8.0": {
+            "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\BusinessObjects\\BusinessObjects.csproj"
+              "D:\\Semester 5\\PRN212\\PRN212\\Assignment_NguyenHoangNgocAnh_SE20A06\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "D:\\Semester 5\\PRN212\\PRN212\\Assignment_NguyenHoangNgocAnh_SE20A06\\BusinessObjects\\BusinessObjects.csproj"
               }
             }
           }
@@ -151,6 +154,7 @@
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "imports": [
             "net461",
