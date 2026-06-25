@@ -33,7 +33,7 @@ namespace DataAccessLayer
             try
             {
                 using var context = new FuminiHotelManagementContext();
-                return context.BookingReservations
+                return context.BookingReservations.OrderByDescending(b => b.BookingReservationId)
                     .Include(b => b.Customer)
                     .Include(b => b.BookingDetails)
                         .ThenInclude(bd => bd.Room)
