@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BusinessLogicLayer/BusinessLogicLayer.csproj" />
+  <Project Path="BusinessObjects/BusinessObjects.csproj" />
+  <Project Path="DataAccessLayer/DataAccessLayer.csproj" />
+  <Project Path="WPFApplication/WPFApplication.csproj" />
+</Solution>

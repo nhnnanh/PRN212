@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\WPFApplication\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WPFApplication\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\WPFApplication\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WPFApplication\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\WPFApplication\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WPFApplication\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\BusinessLogicLayer\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessLogicLayer\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\DataAccessLayer\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccessLayer\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\WPFApplication\\WPFApplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WPFApplication\\WPFApplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\BusinessLogicLayer\\BusinessLogicLayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessLogicLayer\\BusinessLogicLayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\DataAccessLayer\\DataAccessLayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccessLayer\\DataAccessLayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\WPFApplication\\App.xaml",
+              "RelativeDocumentMoniker": "WPFApplication\\App.xaml",
+              "ToolTip": "D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\WPFApplication\\App.xaml",
+              "RelativeToolTip": "WPFApplication\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-24T09:18:22.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WPFApplication.csproj",
+              "DocumentMoniker": "D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\WPFApplication\\WPFApplication.csproj",
+              "RelativeDocumentMoniker": "WPFApplication\\WPFApplication.csproj",
+              "ToolTip": "D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\WPFApplication\\WPFApplication.csproj",
+              "RelativeToolTip": "WPFApplication\\WPFApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-24T09:17:20.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BusinessLogicLayer.csproj",
+              "DocumentMoniker": "D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "ToolTip": "D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "RelativeToolTip": "BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-24T08:41:46.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataAccessLayer.csproj",
+              "DocumentMoniker": "D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ToolTip": "D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeToolTip": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-24T08:41:45.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\WPFApplication\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApplication\\MainWindow.xaml",
+              "ToolTip": "D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\WPFApplication\\MainWindow.xaml",
+              "RelativeToolTip": "WPFApplication\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-24T08:40:15.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\WPFApplication\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApplication\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\WPFApplication\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPFApplication\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T08:40:14.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\BusinessLogicLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Class1.cs",
+              "ToolTip": "D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\BusinessLogicLayer\\Class1.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T08:33:11.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\DataAccessLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Class1.cs",
+              "ToolTip": "D:\\Semester 5\\PRN212\\Submit\\Assignment_NguyenHoangNgocAnh_SE20A06\\DataAccessLayer\\Class1.cs",
+              "RelativeToolTip": "DataAccessLayer\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T08:32:59.084Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
