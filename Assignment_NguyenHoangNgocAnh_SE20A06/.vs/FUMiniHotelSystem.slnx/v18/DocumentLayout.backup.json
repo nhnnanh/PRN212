@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "D:\\Semester 5\\PRN212\\PRN212\\Assignment_NguyenHoangNgocAnh_SE20A06\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|d:\\semester 5\\prn212\\prn212\\assignment_nguyenhoangngocanh_se20a06\\dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C912A4C9-4DC0-55B5-1B9D-FD132972197A}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\semester 5\\prn212\\prn212\\assignment_nguyenhoangngocanh_se20a06\\businesslogiclayer\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C912A4C9-4DC0-55B5-1B9D-FD132972197A}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8466F877-AE88-A591-77C6-E9332B4D5E24}|WPFApplication\\WPFApplication.csproj|d:\\semester 5\\prn212\\prn212\\assignment_nguyenhoangngocanh_se20a06\\wpfapplication\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8466F877-AE88-A591-77C6-E9332B4D5E24}|WPFApplication\\WPFApplication.csproj|solutionrelative:wpfapplication\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8466F877-AE88-A591-77C6-E9332B4D5E24}|WPFApplication\\WPFApplication.csproj|d:\\semester 5\\prn212\\prn212\\assignment_nguyenhoangngocanh_se20a06\\wpfapplication\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8466F877-AE88-A591-77C6-E9332B4D5E24}|WPFApplication\\WPFApplication.csproj|solutionrelative:wpfapplication\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8466F877-AE88-A591-77C6-E9332B4D5E24}|WPFApplication\\WPFApplication.csproj|d:\\semester 5\\prn212\\prn212\\assignment_nguyenhoangngocanh_se20a06\\wpfapplication\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8466F877-AE88-A591-77C6-E9332B4D5E24}|WPFApplication\\WPFApplication.csproj|solutionrelative:wpfapplication\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C912A4C9-4DC0-55B5-1B9D-FD132972197A}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\semester 5\\prn212\\prn212\\assignment_nguyenhoangngocanh_se20a06\\businesslogiclayer\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C912A4C9-4DC0-55B5-1B9D-FD132972197A}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C912A4C9-4DC0-55B5-1B9D-FD132972197A}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\semester 5\\prn212\\prn212\\assignment_nguyenhoangngocanh_se20a06\\businesslogiclayer\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C912A4C9-4DC0-55B5-1B9D-FD132972197A}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8466F877-AE88-A591-77C6-E9332B4D5E24}|WPFApplication\\WPFApplication.csproj|d:\\semester 5\\prn212\\prn212\\assignment_nguyenhoangngocanh_se20a06\\wpfapplication\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +50,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "D:\\Semester 5\\PRN212\\PRN212\\Assignment_NguyenHoangNgocAnh_SE20A06\\DataAccessLayer\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CustomerDAO.cs",
+              "ToolTip": "D:\\Semester 5\\PRN212\\PRN212\\Assignment_NguyenHoangNgocAnh_SE20A06\\DataAccessLayer\\CustomerDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CustomerDAO.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T16:02:26.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Semester 5\\PRN212\\PRN212\\Assignment_NguyenHoangNgocAnh_SE20A06\\WPFApplication\\CustomerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApplication\\CustomerWindow.xaml.cs",
+              "ToolTip": "D:\\Semester 5\\PRN212\\PRN212\\Assignment_NguyenHoangNgocAnh_SE20A06\\WPFApplication\\CustomerWindow.xaml.cs",
+              "RelativeToolTip": "WPFApplication\\CustomerWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T15:53:47.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerWindow.xaml",
+              "DocumentMoniker": "D:\\Semester 5\\PRN212\\PRN212\\Assignment_NguyenHoangNgocAnh_SE20A06\\WPFApplication\\CustomerWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApplication\\CustomerWindow.xaml",
+              "ToolTip": "D:\\Semester 5\\PRN212\\PRN212\\Assignment_NguyenHoangNgocAnh_SE20A06\\WPFApplication\\CustomerWindow.xaml",
+              "RelativeToolTip": "WPFApplication\\CustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-25T15:53:51.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "CustomerRepository.cs",
               "DocumentMoniker": "D:\\Semester 5\\PRN212\\PRN212\\Assignment_NguyenHoangNgocAnh_SE20A06\\BusinessLogicLayer\\CustomerRepository.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\CustomerRepository.cs",
@@ -50,25 +98,23 @@
               "RelativeToolTip": "BusinessLogicLayer\\CustomerRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T15:43:21.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-25T15:43:21.952Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "CustomerService.cs",
               "DocumentMoniker": "D:\\Semester 5\\PRN212\\PRN212\\Assignment_NguyenHoangNgocAnh_SE20A06\\BusinessLogicLayer\\CustomerService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\CustomerService.cs",
               "ToolTip": "D:\\Semester 5\\PRN212\\PRN212\\Assignment_NguyenHoangNgocAnh_SE20A06\\BusinessLogicLayer\\CustomerService.cs",
               "RelativeToolTip": "BusinessLogicLayer\\CustomerService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBoAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAIA2wBoAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T15:25:35.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-25T15:25:35.18Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "D:\\Semester 5\\PRN212\\PRN212\\Assignment_NguyenHoangNgocAnh_SE20A06\\WPFApplication\\ViewModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "WPFApplication\\ViewModels\\LoginViewModel.cs",
@@ -76,24 +122,22 @@
               "RelativeToolTip": "WPFApplication\\ViewModels\\LoginViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T15:19:38.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-25T15:19:38.198Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "D:\\Semester 5\\PRN212\\PRN212\\Assignment_NguyenHoangNgocAnh_SE20A06\\WPFApplication\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "WPFApplication\\LoginWindow.xaml",
               "ToolTip": "D:\\Semester 5\\PRN212\\PRN212\\Assignment_NguyenHoangNgocAnh_SE20A06\\WPFApplication\\LoginWindow.xaml",
               "RelativeToolTip": "WPFApplication\\LoginWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-25T15:06:17.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-25T15:06:17.988Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "LoginWindow.xaml.cs",
               "DocumentMoniker": "D:\\Semester 5\\PRN212\\PRN212\\Assignment_NguyenHoangNgocAnh_SE20A06\\WPFApplication\\LoginWindow.xaml.cs",
               "RelativeDocumentMoniker": "WPFApplication\\LoginWindow.xaml.cs",
@@ -101,12 +145,11 @@
               "RelativeToolTip": "WPFApplication\\LoginWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T15:07:08.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-25T15:07:08.795Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Semester 5\\PRN212\\PRN212\\Assignment_NguyenHoangNgocAnh_SE20A06\\WPFApplication\\appsettings.json",
               "RelativeDocumentMoniker": "WPFApplication\\appsettings.json",
@@ -114,12 +157,11 @@
               "RelativeToolTip": "WPFApplication\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-25T14:53:28.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-25T14:53:28.726Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "BookingReservationDAO.cs",
               "DocumentMoniker": "D:\\Semester 5\\PRN212\\PRN212\\Assignment_NguyenHoangNgocAnh_SE20A06\\DataAccessLayer\\BookingReservationDAO.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\BookingReservationDAO.cs",
@@ -127,8 +169,7 @@
               "RelativeToolTip": "DataAccessLayer\\BookingReservationDAO.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAYwCMAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T14:50:58.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-25T14:50:58.662Z"
             }
           ]
         }
